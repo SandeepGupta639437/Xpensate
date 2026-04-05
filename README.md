@@ -18,10 +18,11 @@ Welcome to the Expense Tracker Android app! This project is designed to help use
 
 Here are some screenshots of the Expense Tracker app in action:
 
-| Home Screen | Add Expense | Stats |
-|-------------|-----------!
---|-------------|
-| ![Home Screen](https://github.com/user-attachments/assets/2f901281-de0c-4b15-a4a9-044527d8f7b1) | ![Add Expense](https://github.com/user-attachments/assets/a7741370-eceb-4412-9d67-9c2a5e626a49) | ![Stats](https://github.com/user-attachments/assets/9a120163-1ddd-4ecf-b2a3-9c5b8087d26b) |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2f901281-de0c-4b15-a4a9-044527d8f7b1" width="250"/>
+  <img src="https://github.com/user-attachments/assets/a7741370-eceb-4412-9d67-9c2a5e626a49" width="250"/>
+  <img src="https://github.com/user-attachments/assets/9a120163-1ddd-4ecf-b2a3-9c5b8087d26b" width="250"/>
+</p>
 
 ## Getting Started
 
